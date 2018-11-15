@@ -7,9 +7,12 @@ What changes are made when you add a second Activity to your app by choosing Fil
 
 A) The second Activity is added as a Java class. You still need to add the XML layout file.
 
+
 B) The second Activity XML layout file is created and a Java class added. You still need to define the class signature.
 
-C) The second Activity is added as a Java class, the XML layout file is created, and the AndroidManifest.xml file is changed to declare a second Activity.
+
+My Answer --> C) The second Activity is added as a Java class, the XML layout file is created, and the AndroidManifest.xml file is changed to declare a second Activity.
+
 
 D) The second Activity XML layout file is created, and the AndroidManifest.xml file is changed to declare a second Activity.
 
@@ -18,9 +21,12 @@ Which constructor method do you use to create a new explicit Intent? Choose one:
 
 A) new Intent()
 
-B) new Intent(Context context, Class<?> class)
+
+My Answer --> B) new Intent(Context context, Class<?> class)
+
 
 C) new Intent(String action, Uri uri)
+
 
 D) new Intent(String action)
 
